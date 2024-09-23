@@ -15,6 +15,12 @@ public class Test {
     public Test(int i, int j) {
         this.i = i;  // Use 'this' to refer to the instance variable
         this.j = j;
+        System.out.println("Init try2");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
     }
 }
 

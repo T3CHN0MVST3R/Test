@@ -11,5 +11,10 @@ public class Main {
         System.out.println("Init try");
         System.out.println("Init try");
         System.out.println("Init try");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
+        System.out.println("Init try2");
     }
 }
