@@ -20,7 +20,7 @@ public class Test {
         System.out.println("Init try2");
         System.out.println("Init try2");
         System.out.println("Init try2");
-        System.out.println("Init try2");
+        System.out.println("Init try2123");
     }
 }
 
